@@ -1,6 +1,6 @@
 # An oath for students in Applied Artificial Intelligence
 
-## Introduction {-}
+## Introduction
 
 While preparing for the formation of an education in Applied Artificial Intelligence at the Flemish University Colleges and discussing the need for teaching AI ethics, the idea arose to write an oath for these future student to take. While the framework for this oath was inspired by the designer's oath as described by James Williams in chapter 12 of his book entitled “Freedom and Resistance in the Attention Economy” (Williams, 2018), the bulk of this text has been written specifically with these students and with the potential risks of an AI project in mind.
 
@@ -8,11 +8,11 @@ While preparing for the formation of an education in Applied Artificial Intellig
 
 This project is a work in progress.
 
-## Authors {-}
+## Authors
 
 While the owner of this repository is the initiator for this project, the writing of the oath is a collaborative effort. A list of collaborators will be released in due course. Contact the repository owner if you wish to collaborate too.
 
-## License {-}
+## License
 
 The whole of the content of this project is licensed under the GNU Affero General Public v3.0 license. _(hover over the table below for detailed info)_
 
@@ -28,20 +28,19 @@ The whole of the content of this project is licensed under the GNU Affero Genera
 
 _[APA-format](https://apastyle.apa.org/):_
 
-D’Haese, D. et al., 2021. An oath for students in Applied Artificial Intelligence [WWW Document] [Online; accessed <script> document.write(new Date().toISOString().substring(0, 10) + ']"');</script>]. URL https://ddhaese.github.io/Project_AI-Oath/
+D’Haese, D. et al., 2021. An oath for students in Applied Artificial Intelligence [WWW Document] [Online; accessed  YYYY-MM-DD]. URL https://ddhaese.github.io/Project_AI-Oath/
 
 _[Bibtex-format](http://www.bibtex.org/):_
 
-<code>
-&#64;online{dhaese-etal-2021-ai-oath,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author = {D'Haese, David} and others,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title = "An oath for students in Applied Artificial Intelligence",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year = "2021",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url = "https://ddhaese.github.io/Project_AI-Oath/",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;note = "[Online; accessed <span>
-<script> document.write(new Date().toISOString().substring(0, 10) + ']"');</script></span>&nbsp;&nbsp;}
-</code><br>
- 
+```bibtex
+online{dhaese-etal-2021-ai-oath,
+  author = {D'Haese, David} and others,
+  title = "An oath for students in Applied Artificial Intelligence",
+  year = "2021",
+  url = "https://ddhaese.github.io/Project_AI-Oath/",
+  note = "[Online; accessed YYYY-MM-DD]"}
+```
+
 ## References
 
 Williams, J. (2018) Stand Out of Our Light: Freedom and Resistance in the Attention Economy. Cambridge University Press. ISBN 9781108452991
