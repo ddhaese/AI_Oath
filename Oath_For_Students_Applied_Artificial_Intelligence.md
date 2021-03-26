@@ -1,5 +1,7 @@
 # The oath for students in Applied Artificial Intelligence
 
+## Version 0.2
+
 As someone who shapes the lives of others through the application of artificial intelligence, I promise, to the best of my ability and judgment and with great humbleness and awareness of my own biases, to:
 
 _care_
