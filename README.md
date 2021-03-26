@@ -24,6 +24,10 @@ The whole of the content of this project is licensed under the GNU Affero Genera
 | <span title="This license provides an express grant of patent rights from contributors.">Patent use</span>     | <span title="Modifications must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used.">Same license</span> |                                                                                                     |
 | <span title="The licensed material may be used and modified in private.">Private use</span>                    | <span title="Changes made to the licensed material must be documented.">State changes</span>                                                                                             |                                                                                                     |
 
+## The Oath
+
+[Here](https://ddhaese.github.io/Project_AI-Oath/).
+
 ## Refer to this project
 
 _[APA-format](https://apastyle.apa.org/):_
