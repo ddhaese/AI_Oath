@@ -4,9 +4,13 @@
 
 While preparing for the formation of an education in Applied Artificial Intelligence at the Flemish University Colleges and discussing the need for teaching AI ethics, the idea arose to write an oath for these future student to take. While the framework for this oath was inspired by the designer's oath as described by James Williams in chapter 12 of his book entitled “Freedom and Resistance in the Attention Economy” (Williams, 2018), the bulk of this text has been written specifically with these students and with the potential risks of an AI project in mind.
 
+## Objective
+
+To gather support for an AI oath.
+
 ## Status of the project
 
-This project is a work in progress.
+This project is a work in progress. The oath is to become versioned, i.e. the oath is allowed to evolve over time. The first official version will be 1.0, but we are not there yet.
 
 ## Authors
 
