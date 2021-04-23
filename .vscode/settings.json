@@ -1,0 +1,10 @@
+{
+  "markdownConverter.ConversionType": [
+    "HTML"
+  ],
+  "markdownConverter.DestinationPattern": "${workspaceFolder}/docs/index.html",
+  "markdownConverter.Document.Design.StyleSheets": [
+    "ASFDSHG"
+  ],
+  "markdownConverter.Document.Design.DefaultStyles": false
+}

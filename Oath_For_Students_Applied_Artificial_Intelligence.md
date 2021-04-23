@@ -1,16 +1,10 @@
----
-id: "oath"
----
-
-@import "oath.less" 
-
 # The oath for students in Applied Artificial Intelligence
 
 ### Version 0.3 (2021-04-23)
 
 As someone who shapes the lives of others through the application of artificial intelligence, I promise, to the best of my ability and judgment and with great humbleness, to:
 
-## Care
+## care
 
 - ~~above all, do no harm;~~ _the added value of this line has been questioned - red._
 - identify, invite, involve and listen to all stakeholders and collaborators of the artificial intelligence solution;
@@ -20,7 +14,7 @@ As someone who shapes the lives of others through the application of artificial 
 - genuinely care about their success;
 - measure the full effect of my artificial intelligence projects on their lives;
 
-## Communicate
+## communicate
 
 - respect the hard-won scientific gains in de field of artificial intelligence;
 - gladly share my knowledge on artificial intelligence with others;
@@ -31,19 +25,19 @@ As someone who shapes the lives of others through the application of artificial 
 - include all relevant measures while I communicate about the performance of a statistical model;
 - include the list of all assumptions while I communicate about the workings or performance of a statistical model;
 
-## Doubt
+## doubt
 
 - doubt the source data and investigate its reliability, accuracy and representativeness;
 - doubt the learning algorithm and the learned statistical model;
 - doubt myself and endeavour to increase the awareness around my own biases;
 
-## Anticipate
+## anticipate
 
 - actively anticipate possible misuses of the artificial intelligence solution;
 - draw up scenarios in which individuals, organizations or nations with bad intentions get a hold on (a part of the) artificial intelligence solution;
 - understand the driving forces that could lead malintenders to misuse the (a part of the) artificial intelligence solution;
 
-## Know my limits
+## know my limits
 
 - openly call in the help of other experts when my skills are inadequate or my knowledge insufficient;
 - decline or share the responsibility to define cut-offs, goals and success-criteria for the artificial intelligence solution;
