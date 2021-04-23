@@ -1,6 +1,7 @@
+<small>Version 0.3 (2021-04-23)</small>
+
 # The oath for students in Applied Artificial Intelligence
 
-### Version 0.3 (2021-04-23)
 
 As someone who shapes the lives of others through the application of artificial intelligence, I promise, to the best of my ability and judgment and with great humbleness, to:
 
