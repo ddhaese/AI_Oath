@@ -22,7 +22,7 @@ While the owner of this repository is the initiator for this project, the writin
 
 ## Contribute
 
-You can use the functionality of github but I'd prefer you send me an [email](mailto:david.dhaese@ap.be) with your ideas. Tell me what you would do differently or what you think is missing or superfluous and why. Or send me a line with your support or your criticism.
+You can use the functionality of github but I'd prefer you send me an email (david.dhaese@ap.be) with your ideas. Tell me what you would do differently or what you think is missing or superfluous and why. Or send me a line with your support or your criticism.
 
 ## License
 
