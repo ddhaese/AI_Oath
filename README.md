@@ -16,6 +16,14 @@ This project is a work in progress. The oath is to become versioned, i.e. the oa
 
 While the owner of this repository is the initiator for this project, the writing of the oath is a collaborative effort. A list of collaborators will be released in due course. Contact the repository owner if you wish to collaborate too.
 
+## The Oath
+
+[Here](https://ddhaese.github.io/Project_AI-Oath/).
+
+## Contribute
+
+You can use the functionality of github but I'd prefer you send me an [email](mail:david.dhaese@ap.be) with your ideas. Tell me what you would do differently or what you think is missing or superfluous and why. Or send me a line with your support or your criticism.
+
 ## License
 
 The whole of the content of this project is licensed under the GNU Affero General Public v3.0 license. _(hover over the table below for detailed info)_
@@ -27,10 +35,6 @@ The whole of the content of this project is licensed under the GNU Affero Genera
 | <span title="The licensed material may be modified.">Modification</span>                                       | <span title="Users who interact with the licensed material via network are given the right to receive a copy of the source code.">Network use is distribution</span>                     |                                                                                                     |
 | <span title="This license provides an express grant of patent rights from contributors.">Patent use</span>     | <span title="Modifications must be released under the same license when distributing the licensed material. In some cases a similar or related license may be used.">Same license</span> |                                                                                                     |
 | <span title="The licensed material may be used and modified in private.">Private use</span>                    | <span title="Changes made to the licensed material must be documented.">State changes</span>                                                                                             |                                                                                                     |
-
-## The Oath
-
-[Here](https://ddhaese.github.io/Project_AI-Oath/).
 
 ## Refer to this project
 

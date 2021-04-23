@@ -1,4 +1,4 @@
-<small>Version 0.3 (2021-04-23)</small>
+Version 0.3 (2021-04-23)
 
 # The oath for students in Applied Artificial Intelligence
 
