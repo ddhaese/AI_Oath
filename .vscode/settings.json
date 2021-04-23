@@ -4,7 +4,8 @@
   ],
   "markdownConverter.DestinationPattern": "${workspaceFolder}/docs/index.html",
   "markdownConverter.Document.Design.StyleSheets": [
-    "C:/Users/David D'Haese/Documents/_SERVICES/2021-03-24 - Eed/Project_AI-Oath/css/oath.css"
+    "css/oath.css"
   ],
-  "markdownConverter.Document.Design.DefaultStyles": false
+  "markdownConverter.Document.Design.DefaultStyles": false,
+  "markdownConverter.DateFormats": null
 }
