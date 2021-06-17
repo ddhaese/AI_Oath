@@ -1,6 +1,9 @@
 body {
-  background-color: aliceblue !important;
+  background-image: url(../img/pattern-back.jpg);
+  background-repeat: repeat;
+  background-size: 20%;
   font-family: "Roboto";
+  font-size: 1.3em;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;

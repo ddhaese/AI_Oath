@@ -2,7 +2,7 @@
 
 ## Introduction
 
-While preparing for the formation of an education in Applied Artificial Intelligence at the Flemish University Colleges and discussing the need for teaching AI ethics, the idea arose to write an oath for these future student to take. While the framework for this oath was inspired by the designer's oath as described by James Williams in chapter 12 of his book entitled “Freedom and Resistance in the Attention Economy” (Williams, 2018), the bulk of this text has been written specifically with these students and with the potential risks of an AI project in mind.
+While preparing for the formation of an education in Applied Artificial Intelligence at the Flemish University Colleges and discussing the need for teaching AI ethics, the idea arose to write an oath for these future students to take. While the framework for this oath was inspired by the designer's oath as described by James Williams in chapter 12 of his book entitled “Stand out of our light: Freedom and Resistance in the Attention Economy” (Williams, 2018), the bulk of this text has been written specifically with these students and with the potential risks of an AI project in mind.
 
 ## Objective
 
@@ -14,7 +14,7 @@ This project is a work in progress. The oath is to become versioned, i.e. the oa
 
 ## Authors
 
-While the owner of this repository is the initiator for this project, the writing of the oath is a collaborative effort. A list of collaborators will be released in due course. Contact the repository owner if you wish to collaborate too.
+While the owner of this repository is the initiator for this project, the writing of the oath is a collaborative effort. Contact the repository owner if you wish to collaborate too.
 
 ## The Oath
 
@@ -22,7 +22,7 @@ While the owner of this repository is the initiator for this project, the writin
 
 ## Contribute
 
-You can use the functionality of github but I'd prefer you send me an email (david.dhaese@ap.be) with your ideas. Tell me what you would do differently or what you think is missing or superfluous and why. Or send me a line with your support or your criticism.
+You can use the functionality of github but it is probably easier for you to you send me an email (david.dhaese@ap.be) with your ideas. Tell me what you would do differently or what you think is missing or superfluous and why. Or send me a line with your support or your criticism.
 
 ## License
 
