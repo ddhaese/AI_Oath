@@ -22,7 +22,13 @@ While the owner of this repository is the initiator for this project, the writin
 
 ## Contribute
 
-You can use the functionality of github but it is probably easier for you to you send me an email (david.dhaese@ap.be) with your ideas. Tell me what you would do differently or what you think is missing or superfluous and why. Or send me a line with your support or your criticism.
+If you know how to, you can use the functionality of github to fork this project and push your changes. You can view and edit the `oath.md` markdown file that contains he oath and then convert it to HTML using pandoc:
+
+```cmd
+pandoc -s oath.md --section-divs -c css/oath.css -o docs/index.html
+```
+
+Otherwise, it is probably easier for you to send me an email (david.dhaese@ap.be) with your ideas. Tell me what you would do differently or what you think is missing or superfluous and why. Or send me a line with your support or your criticism.
 
 ## License
 
